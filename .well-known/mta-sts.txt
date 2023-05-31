@@ -1,6 +1,6 @@
 version: STSv1
 mode: enforce
+max_age: 2592000
 mx: *.smtp.goog
 mx: *.googlemail.com
 mx: *.google.com
-max_age: 2592000
